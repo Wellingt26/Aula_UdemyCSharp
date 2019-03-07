@@ -1,0 +1,7 @@
+C:\Users\welli\source\repos\Triangulo OOP\Triangulo OOP\bin\Debug\Triangulo OOP.exe.config
+C:\Users\welli\source\repos\Triangulo OOP\Triangulo OOP\bin\Debug\Triangulo OOP.exe
+C:\Users\welli\source\repos\Triangulo OOP\Triangulo OOP\bin\Debug\Triangulo OOP.pdb
+C:\Users\welli\source\repos\Triangulo OOP\Triangulo OOP\obj\Debug\Triangulo OOP.csprojAssemblyReference.cache
+C:\Users\welli\source\repos\Triangulo OOP\Triangulo OOP\obj\Debug\Triangulo OOP.csproj.CoreCompileInputs.cache
+C:\Users\welli\source\repos\Triangulo OOP\Triangulo OOP\obj\Debug\Triangulo OOP.exe
+C:\Users\welli\source\repos\Triangulo OOP\Triangulo OOP\obj\Debug\Triangulo OOP.pdb
