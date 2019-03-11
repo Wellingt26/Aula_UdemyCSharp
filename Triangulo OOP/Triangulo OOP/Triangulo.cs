@@ -10,7 +10,7 @@ namespace Triangulo_OOP
     {
         public double A;
         public double B;
-        public double C;
+        public double C;  //teste
 
 
     }
